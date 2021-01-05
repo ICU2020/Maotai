@@ -2,7 +2,7 @@
 
 ## 京东抢茅台： https://github.com/ChinaVolvocars/jd_maotai_seckill
 
-## 苏宁抢茅台： https://github.com/583/suning_qianggou
+## 苏宁抢茅台(不稳定)： https://github.com/583/suning_qianggou
 
 ## 天猫抢茅台： https://github.com/cehui0303/Tmall_Tickets
 
