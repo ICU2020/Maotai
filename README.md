@@ -9,5 +9,5 @@
 
 
 # 免费工具：
-
+## [科学上网工具链接](https://github.com/YoungBoy0048/tulingx)
 ## [字幕翻译工具链接](https://gist.github.com/qwertyuiop6/8499fe086491da90617fe17c32716d4e)
